@@ -15,8 +15,8 @@
 import httplib, urllib
 from optparse import OptionParser
 
-USER_ID="T5PbJ2nkZJ6hdx44tFwHnVsIVLBGNz"
-API_TOKEN="FrXhv6faJur2WxBeCjIqfTaEIq3uWb"
+USER_ID="YOUR ID HERE"
+API_TOKEN="API_TOKEN"
 
 def send_message(message):
 	conn = httplib.HTTPSConnection("api.pushover.net:443")
