@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='PushoverPy',
-    version='1.0.0',
+    version='1.0.1',
     author='Taylor McKinnon',
     author_email='htmlfreak117@gmail.com',
     packages=['PushoverPy'],

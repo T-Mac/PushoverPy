@@ -1,7 +1,7 @@
-===========
 PushoverPy
 ===========
 PushoverPy provides a simple api to pushover.net, and a command line client. Sending messages is as easy as::
+
     from PushoverPy import Pushover
     
     Api = Pushover(User_Key, Api_Token)
