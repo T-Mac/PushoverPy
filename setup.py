@@ -11,6 +11,6 @@ setup(
     description='Simple api to pushover.net',
     long_description=open('README.txt').read(),
     install_requires=[
-       "requests == 2.0.0",
+       "requests == 2.20.0",
     ],
 )
